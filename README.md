@@ -9,7 +9,7 @@ You can use Terraform to create an AKS cluster on Azure. Follow these steps:
 
 1. Clone this repository.
 2. Navigate to the terraform/ directory.
-3. Edit the terraform.tfvars file to include your Azure subscription ID and tenant ID, as well as your desired cluster name and location.
+3. Edit the terraform.tfvars file to include your Azure subscription ID, as well as your desired cluster name and location.
 4. Run terraform init to initialize the Terraform environment.
 5. Run terraform apply to create the Kubernetes cluster.
 
